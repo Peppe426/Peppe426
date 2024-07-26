@@ -12,6 +12,9 @@ I'm a passionate backend developer with a strong focus on .NET and Microsoft tec
 ## Check Out My Latest Project
 I've been working on a project using .NET MAUI and Fluent UI. You can explore it [here](https://github.com/Peppe426/net-maui-fluent-ui).
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=peppe426&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peppe426&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/peter-liljeholm-5955561a0) 🔗
 - [Twitter](https://twitter.com/PeterL1760831) 🐦
